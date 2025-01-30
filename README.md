@@ -11,6 +11,7 @@ Suma de los n primeros números náturales
 n: número al que se desea aplicar la formula
 ### prosesisng
 s: suma de los primeros n números 
+
 s = (n*(n+1))/2 
 
 
